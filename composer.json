@@ -1,0 +1,17 @@
+{
+    "name": "bouchkara/test-montant-frais",
+    "type": "library",
+    "license": "ASPL-2.0",
+    "autoload": {
+        "psr-4": {
+            "Bouchkara\\TestMontantFrais\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "nesrinebouchkara",
+            "email": "bouchkara.nesrine07@gmail.com"
+        }
+    ],
+    "require": {}
+}
