@@ -1,7 +1,7 @@
 {
     "name": "bouchkara/test-montant-frais",
     "type": "library",
-    "license": "APSL-2.0",
+    "license": "AFL-1.1",
     "autoload": {
         "psr-4": {
             "Bouchkara\\TestMontantFrais\\": "src/"
